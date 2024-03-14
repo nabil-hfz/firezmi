@@ -1,0 +1,35 @@
+{
+    "name": "firezmi",
+    "short_name": "firezmi",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Firezmi is an innovative powerful desktop application designed to enhance productivity and streamline workflows for developers working with Firebase. It offers a user-friendly interface that allows users to easily manage and interact with their Firebase projects, including Firestore. With advanced features such as data visualization, query building, and real-time data updates, Firezmi empowers developers to efficiently manage their projects, perform detailed analyses, and make informed decisions. Whether you're a solo developer or part of a larger team, Firezmi provides the tools you need to take your Firebase development to the next level.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
